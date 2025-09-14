@@ -1,0 +1,4 @@
+@echo off
+set OPENAI_API_KEY=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
+python run_backend.py
+pause
